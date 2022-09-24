@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! My name is Hasika Sridhar, and I'm a sophomore studying CS in LSA. A fun (not really) fact about me is that I got hit by a 18 wheel truck this summer and made it out without a scratch. Besides that, I love trying new restaurants and consider myself an active and outgoing person.
